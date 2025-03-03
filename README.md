@@ -9,9 +9,6 @@
 
 ## 🚀 **About Me**
 - 🤖 **Aspiring AI Engineer** | Passionate about **Machine Learning & Deep Learning**  
-- 💡 **AI Enthusiast**: Developing AI-powered solutions for **Fraud Detection, Image Processing & NLP**  
-- 🏆 **Hackathon Achiever**: Top **40 out of 700+** at Hack2Future 🚀  
-- 🌍 **Web & App Developer**: Expertise in **MERN, React Native, Flutter, Firebase, and Blockchain**  
 - 🔬 Currently exploring **Advanced AI, Generative Models & Computer Vision**  
 - 🎯 **Goal:** Master AI & Deploy Scalable Intelligent Systems  
 
