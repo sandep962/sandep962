@@ -37,8 +37,7 @@
 
 ## 🏆 **Hackathon & Project Achievements**
 - 🚀 **Hack2Future (IIIT Dharwad)** - **Top 40/700 teams**  
-  - 🏅 Developed an **AI-powered media enhancement system** using **CNN & GANs**  
-- 🏆 **BICEP (BMSIT College)** - **Selected for Proposal Phase**  
+- 🏅 Developed an **AI-powered media enhancement system** using **CNN & GANs**  
 - 🔥 **AI-Based Insurance Fraud Detection** - Built **ML models** to analyze fraud trends  
 - 🌟 **Interactive Human Body Visualization Tool** - Developing a **3D AI-powered system**  
 
