@@ -39,9 +39,7 @@
 
 
 ## 📫 **Connect with Me!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandeep-bhajantri-613135213/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sandep962)  
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandeep-bhajantri-613135213/)
+📧 Email: [Sandeepbhajantri549@gmail.com](mailto:Sandeepbhajantri549@gmail.com)
 
 💡 **"AI is the future, and I'm here to build it!"** 🚀  
