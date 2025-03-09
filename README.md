@@ -19,13 +19,7 @@
 - **Languages:** Python, R  
 - **ML/DL Frameworks:** TensorFlow, PyTorch, Keras, Scikit-Learn  
 - **Data Processing:** Pandas, NumPy, OpenCV, NLTK, Hugging Face  
-- **Model Deployment:** Flask, FastAPI, Streamlit, Docker  
-
-### 🔹 **Web & App Development**
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express, Flask, Django  
-- **Databases:** MongoDB 
-- **App Development:** React Native   
+- **Model Deployment:** Flask, FastAPI, Streamlit, Docker
 
 
 ## 📊 **GitHub Stats**
