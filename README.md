@@ -80,8 +80,9 @@ AI-Powered Insurance Fraud Detection · Interactive Human Body Visualization Too
 ## 🏅 Trophy Shelf  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandep962&theme=flat&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/api?username=sandep962&theme=flat&no-frame=true&column=6" />
 </p>
+
 
 
 ---
