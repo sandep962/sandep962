@@ -98,16 +98,16 @@ I love building **end-to-end AI systems** — from training deep-learning models
 
 ## 📈 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sandep962&show_icons=true&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com?user=sandep962&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandep962&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn  
-- 📧 sandeepbhajantri549@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-bhajantri  
+- 📧 Gmail: sandeepbhajantri549@gmail.com 
 
 ---
 
