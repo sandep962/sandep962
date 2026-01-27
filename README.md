@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Hi+I'm+Sandeep+Bhajantri+👋;Aspiring+AI+Engineer+🤖;Computer+Vision+%7C+GenAI+%7C+NLP;Hackathon+Winner+🏆" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Hi+I'm+Sandeep+Bhajantri;Aspiring+AI+Engineer;Computer+Vision+%7C+GenAI+%7C+NLP;Hackathon+Winner+IIIT+Gwalior" />
 </p>
 
 <p align="center">
@@ -8,37 +8,50 @@
 
 ---
 
-## 🚀 About Me  
-
-🎓 AI & ML undergraduate at BMS Institute of Technology and Management (VTU), Bengaluru  
-🤖 Passionate about building production-ready intelligent systems  
-🔍 Focused on GenAI, RAG, Computer Vision & Responsible AI  
-🏆 Winner — IIIT Gwalior Hackathon  
-🎯 Aspiring Research-Driven AI Engineer  
+# 👋 Sandeep Bhajantri  
+### 🤖 Aspiring AI Engineer | ML & Deep Learning | Hackathon Winner  
 
 ---
 
-## 🧠 AI / ML Arsenal  
+## 🚀 About Me  
+
+🎓 AI & ML undergraduate at BMS Institute of Technology and Management (VTU), Bengaluru  
+🤖 Building production-ready intelligent systems  
+🔍 Focused on GenAI, RAG, Computer Vision & Responsible AI  
+🏆 Winner — IIIT Gwalior Hackathon (TrapSense AI)  
+🎯 Research-driven AI engineer in the making  
+
+---
+
+## 🧠 AI / ML Stack  
 
 **Languages:** Python, SQL  
+
 **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn  
-**GenAI/NLP:** Transformers, BERT, Whisper, LangChain, RAG  
-**Vision:** YOLOv8, OpenCV, GANs, ESRGAN  
-**Deployment:** FastAPI, Flask, Gradio, Streamlit, Docker, AWS  
+
+**GenAI / NLP:** Transformers, BERT, Whisper, LangChain, RAG  
+
+**Computer Vision:** YOLOv8, OpenCV, GANs, ESRGAN, Pix2Pix  
+
+**Deployment & MLOps:** FastAPI, Flask, Gradio, Streamlit, Docker (basic), AWS  
+
 **Tools:** Git, GitHub, Firebase  
 
 ---
 
-## 🏆 Flagship Wins  
+## 🏆 Flagship Wins & Projects  
 
 🥇 **TrapSense AI — IIIT Gwalior Hackathon Winner**  
-AI-powered wildlife camera trap analysis with YOLOv8, React, FastAPI & AWS.
+AI-powered wildlife camera trap analysis using YOLOv8, React, FastAPI & AWS.
 
 🥈 **Guardian AI — NMAM Hackfest (Top 4)**  
-Real-time threat detection using Whisper + BERT.
+Real-time communication threat detection with Whisper + BERT.
 
 🥉 **Hack2Future — IIIT Dharwad Finalist**  
 Pack-wise AI media enhancement system.
+
+🔬 **Other Projects:**  
+AI-Powered Insurance Fraud Detection · Interactive Human Body Visualization Tool (In Progress)
 
 ---
 
@@ -46,7 +59,7 @@ Pack-wise AI media enhancement system.
 
 - Vision-Language Models  
 - RAG Systems at Scale  
-- Wildlife AI  
+- Wildlife AI Research  
 - MLOps Automation  
 
 ---
@@ -85,4 +98,4 @@ Pack-wise AI media enhancement system.
 
 ---
 
-⭐ If you like my work, consider starring some repos — it keeps me shipping cool AI stuff 😄
+⭐ If you like my work, consider starring some repos — let’s build the future with AI 🚀🧠
