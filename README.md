@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-bhajantri">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sandeep-bhajantri-613135213/">LinkedIn</a> ·
   <a href="mailto:sandeepbhajantri549@gmail.com">Email</a> ·
   <a href="https://github.com/sandep962/sandep962/raw/main/Resume.pdf">Resume (PDF)</a>
 </p>
@@ -34,7 +34,7 @@
 Built for the **Valura AI Arena** assessment (practice → qualifying → final evaluation runs).
 - 7 specialised agents (Router, Book QA, KYC, Notes, Market, Compliance, Verifier) answer client-specific questions through a FastAPI `/answer` endpoint.
 - **Security by design:** strict per-client data isolation, retrieved notes treated as data not instructions (prompt-injection defence), and refusal of personalised investment advice.
-- Structured responses with citations, confidence, abstain/refuse flags. Dockerised, with a scoring harness.
+- Structured responses with citations, confidence, and abstain/refuse flags. Dockerised, with a scoring harness.
 
 ### 💳 [AI Financial Decision & Verification Layer](https://github.com/sandep962/AI-Financial-Decision-Verification-Layer)
 `Python` `FastAPI` `React` `Vite` `Razorpay API`
@@ -56,7 +56,7 @@ Built for the **Razorpay AI Buildathon (Track 04: AI Finance Controller)**.
 
 - Dual-head ResNet18 that predicts the **centre (x, y)** of Ground Control Point markers in drone imagery and classifies shape (Cross / Square / L-Shape).
 - Trained on 996 images (300 test) at 512×512 with SmoothL1 + class-weighted cross-entropy and AdamW.
-- Did EDA first and found and removed 4 unlabeled images. Handled mixed resolutions and class imbalance.
+- Did EDA first, then found and removed 4 unlabeled images. Handled mixed resolutions and class imbalance.
 
 ### 🔐 [Fingerprint Liveness Detection (Presentation Attack Detection)](https://github.com/sandep962/Fingerprint-Liveness-Detection)
 `PyTorch` `MobileNetV3-Small` `Transfer learning`
@@ -102,6 +102,6 @@ Hack2Future (IIIT Dharwad) national finalist. Tiled image processing with a thre
 Open to **AI/ML internships**, applied research and collaborations in computer vision, multi-agent systems and trustworthy AI.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-bhajantri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-bhajantri-613135213/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sandeepbhajantri549@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
