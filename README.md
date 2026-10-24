@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-bhajantri">LinkedIn</a> ·
   <a href="mailto:sandeepbhajantri549@gmail.com">Email</a> ·
-  <a href="[RESUME PDF LINK]">Resume (PDF)</a>
+  <a href="[[RESUME PDF LINK]](https://github.com/sandep962/sandep962/blob/main/Resume.pdf)">Resume (PDF)</a>
 </p>
 
 ---
