@@ -1,147 +1,107 @@
-# Sandeep Bhajantri
+<h1 align="center">Sandeep Bhajantri</h1>
+<h3 align="center">AI/ML Engineer · Computer Vision · Multi-Agent & GenAI Systems</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;Generative+AI+%7C+Multi-Agent+Systems;Building+AI+Systems+That+Solve+Real+Problems](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=780\&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;Generative+AI+%7C+Multi-Agent+Systems;Building+AI+Systems+That+Solve+Real+Problems)" alt="AI engineering introduction" />
-\</p>
+<p align="center">
+  AI & ML undergraduate at BMSIT, Bengaluru, building AI systems you can actually run:<br/>
+  vision models, multi-agent APIs, and fraud-detection pipelines, with safety checks built in.<br/>
+  <b>🥇 Winner, National Hackathon at IIIT Gwalior (500+ teams)</b> · Open to AI/ML internships
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/sandep962](https://github.com/sandep962)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=sandep962&style=flat&color=58A6FF&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=sandep962\&style=flat\&color=58A6FF\&label=PROFILE+VIEWS)" alt="Profile views" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/sandep962?tab=repositories](https://github.com/sandep962?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github](https://img.shields.io/badge/Repositories-Explore-181717?style=flat\&logo=github)" alt="Repositories" />
-&#x20; \</a>
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Applied%20AI-58A6FF?style=flat](https://img.shields.io/badge/Focus-Applied%20AI-58A6FF?style=flat)" alt="Applied AI" />
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/sandeep-bhajantri-613135213](https://www.linkedin.com/in/sandeep-bhajantri-613135213)">LinkedIn\</a> •
-&#x20; \<a href="mailto\:sandeepbhajantri549\@gmail.com">Email\</a> •
-&#x20; \<a href="[https://github.com/sandep962?tab=repositories](https://github.com/sandep962?tab=repositories)">Projects\</a>
-\</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-bhajantri">LinkedIn</a> ·
+  <a href="mailto:sandeepbhajantri549@gmail.com">Email</a> ·
+  <a href="https://github.com/sandep962/sandep962/raw/main/Resume.pdf">Resume (PDF)</a>
+</p>
 
 ---
 
-## About
+## 🏆 Recognition
 
-I'm an **Artificial Intelligence and Machine Learning undergraduate at BMS Institute of Technology and Management, Bengaluru**, interested in building practical AI systems from data and model development through inference and application integration.
-
-My work spans computer vision, deep learning, LLM applications, retrieval-augmented generation, and multi-agent systems. I enjoy working through the engineering details behind AI solutions—not just model selection, but also data preparation, training, evaluation, retrieval, and deployment interfaces.
-
-- 🏆 Winner of a national-level hackathon at IIIT Gwalior, competing against 500+ teams.
-- 🌍 Represented my college at an international-level hackathon.
-- 🧠 Building with PyTorch, computer vision, LLMs, and agentic AI.
-- 🔬 Interested in applied AI research and reliable AI engineering.
-- 🤝 Open to collaborating on meaningful AI/ML projects and research.
-
-## Selected Projects
-
-### 01 — Aerial GCP Pose Estimation & Shape Classification
-
-`PyTorch` `ResNet18` `Computer Vision` `Multi-Task Learning`
-
-Developed a computer vision pipeline for aerial drone imagery that jointly predicts Ground Control Point (GCP) keypoint coordinates and classifies marker shapes.
-
-- Curated and preprocessed 996 annotated aerial images.
-- Built a ResNet18-based architecture for coordinate regression and shape classification.
-- Classified Cross, Square, and L-Shape markers.
-- Combined coordinate regression and classification losses.
-- Used weighted loss terms to address class imbalance.
-
-**Engineering focus:** Dataset preparation, coordinate normalization, multi-task training, validation, and prediction analysis.
-
-[Browse my repositories](https://github.com/sandep962?tab=repositories)
-
-### 02 — Multi-Agent AI System
-
-`Python` `LLMs` `RAG` `Tool Calling` `Agent Orchestration`
-
-Built a multi-agent application that processes natural-language queries, retrieves relevant records from structured client data, and generates grounded responses.
-
-- Designed query routing and agent coordination.
-- Integrated retrieval-augmented techniques for contextual responses.
-- Used tool-calling patterns to retrieve relevant information.
-- Tested responses across varied client-record queries.
-
-**Engineering focus:** Retrieval pipelines, agent coordination, grounded generation, and response reliability.
-
-[Browse my repositories](https://github.com/sandep962?tab=repositories)
-
-### 03 — Media Enhancement
-
-`Deep Learning` `GANs` `Image Restoration`
-
-Explored image enhancement and restoration techniques as part of Hack2Future at IIIT Dharwad.
-
-**Focus:** Image quality improvement and deep learning for visual media.
-
-[View Hack2Future repository](https://github.com/Hack2Future-IIIT-Dharwad/byte_bundits)
-
-### 04 — More AI Engineering Work
-
-My repositories also include hackathon work, machine learning experiments, and other engineering projects.
-
-- [Scam_Harassment](https://github.com/sandep962/Scam_Harassment)
-- [Fraud-Detection](https://github.com/sandep962/Fraud-Detection)
-- [upscale_image](https://github.com/sandep962/upscale_image)
-- [All repositories →](https://github.com/sandep962?tab=repositories)
-
-See individual repository documentation for implementation details, setup instructions, and project-specific results.
-
-## Achievements
-
-| Recognition                  | Details                                                             |
-| ---------------------------- | ------------------------------------------------------------------- |
-| 🥇 National Hackathon Winner | IIIT Gwalior, 2025; competed against 500+ teams                     |
-| 🌍 International Hackathon   | Represented my college at the International BizThon Hackathon, 2025 |
-|                              |                                                                     |
-|                              |                                                                     |
-
-## Technical Skills
-
-**Programming:** Python
-
-**Machine Learning:** Supervised and unsupervised learning, transfer learning, model evaluation, preprocessing, class imbalance handling, data augmentation.
-
-**Deep Learning:** PyTorch, TensorFlow, scikit-learn, CNNs, ResNet.
-
-**Computer Vision:** OpenCV, YOLOv8, object detection, keypoint localization, pose estimation, image classification, GANs, DnCNN.
-
-**Generative AI:** LLMs, Hugging Face Transformers, RAG, LangChain, embeddings, prompt engineering, tool calling, agent orchestration, multi-agent systems.
-
-**AI Engineering:** FastAPI, Flask, REST APIs, model inference, retrieval pipelines, Gradio, Docker.
-
-**Tools:** Git, GitHub, Google Colab, Jupyter, Weights & Biases, FFmpeg.
-
-## GitHub Activity
-
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=sandep962&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=sandep962\&show_icons=true\&theme=github_dark\&hide_border=true)" alt="GitHub statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sandep962&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=sandep962\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Most used programming languages" />
-\</p>
-
-\<p align="center">
-&#x20; \<img width="90%" src="[https://streak-stats.demolab.com?user=sandep962&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=sandep962\&theme=github-dark-blue\&hide_border=true)" alt="GitHub contribution streak" />
-\</p>
+| Year | Result | Project | Focus |
+|------|--------|---------|-------|
+| 2025 | 🥇 **Winner**, National Hackathon, IIIT Gwalior (500+ teams) | **TrapSense AI** | Wildlife camera-trap CV |
+| 2025 | 🏅 **Top 4**, NMAM Hackfest | **Guardian AI** | Speech + NLP threat detection |
+| 2025 | 🌍 Represented BMSIT, International BizThon (Yellow Network × IIT Delhi) | | |
+| 2024 | 🚀 **National Finalist**, Hack2Future, IIIT Dharwad | [**Image Upscaling App**](https://github.com/Hack2Future-IIIT-Dharwad/byte_bundits) | GAN-based image restoration |
 
 ---
 
-## Let's Connect
+## 🔧 Featured Projects
 
-Interested in computer vision, applied machine learning, Generative AI, multi-agent systems, and building reliable AI applications.
+### 🤖 [Multi-Agent Financial Research & Compliance Assistant](https://github.com/sandep962/Multi-Agent-Financial-Research-Compliance)
+`Python` `FastAPI` `Agno` `Docker` `LLM agents`
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/sandep962](https://github.com/sandep962)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/sandeep-bhajantri-613135213](https://www.linkedin.com/in/sandeep-bhajantri-613135213)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:sandeepbhajantri549\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; \</a>
-\</p>
+Built for the **Valura AI Arena** assessment (practice → qualifying → final evaluation runs).
+- 7 specialised agents (Router, Book QA, KYC, Notes, Market, Compliance, Verifier) answer client-specific questions through a FastAPI `/answer` endpoint.
+- **Security by design:** strict per-client data isolation, retrieved notes treated as data not instructions (prompt-injection defence), and refusal of personalised investment advice.
+- Structured responses with citations, confidence, abstain/refuse flags. Dockerised, with a scoring harness.
 
-\<p align="center">
-&#x20; \<i>From experimentation to implementation—building AI with purpose.\</i>
-\</p>
+### 💳 [AI Financial Decision & Verification Layer](https://github.com/sandep962/AI-Financial-Decision-Verification-Layer)
+`Python` `FastAPI` `React` `Vite` `Razorpay API`
+
+Built for the **Razorpay AI Buildathon (Track 04: AI Finance Controller)**.
+- Pipeline: `Event → Evidence → Decision → Policy Check → Execution → Verification → Audit Record`.
+- Pulls real payment evidence from Razorpay Test Mode, enforces deterministic policy rules, then **re-checks the actual outcome** and reports "unverified" instead of claiming a recovery that didn't happen.
+- Decision layer is decoupled, so an LLM can be plugged in without touching the safety controls.
+
+### 🕸️ [Graph-Based Money Muling Detection](https://github.com/sandep962/MONEY_MULING)
+`Python` `NetworkX` `Streamlit` `PyVis` `Pandas`
+
+- Detects fraud rings in **unlabeled** transaction data with no trained model: fan-out, fan-in, circular flows and layering chains.
+- Time-window sliding algorithms, DFS pathfinding, cycle detection and PageRank scoring.
+- Streamlit dashboard with an interactive network graph and a JSON compliance report export.
+
+### 🛰️ [Aerial GCP Pose Estimation & Shape Classification](https://github.com/sandep962/Aerial-GCP-Pose-Estimation-Shape-Classification-)
+`PyTorch` `ResNet18` `Multi-task learning`
+
+- Dual-head ResNet18 that predicts the **centre (x, y)** of Ground Control Point markers in drone imagery and classifies shape (Cross / Square / L-Shape).
+- Trained on 996 images (300 test) at 512×512 with SmoothL1 + class-weighted cross-entropy and AdamW.
+- Did EDA first and found and removed 4 unlabeled images. Handled mixed resolutions and class imbalance.
+
+### 🔐 [Fingerprint Liveness Detection (Presentation Attack Detection)](https://github.com/sandep962/Fingerprint-Liveness-Detection)
+`PyTorch` `MobileNetV3-Small` `Transfer learning`
+
+Built for the **YellowSense Technologies** assignment.
+- Classifies fingerprints as LIVE or SPOOF and evaluates with biometric metrics (**APCER, BPCER, EER**), with threshold calibration.
+- **88.9% test accuracy (16/18)** on a small proof-of-concept set (SOCOFing, synthetic spoofs). Report with plots included.
+
+### 🖼️ [Image Upscaling & Restoration App](https://github.com/Hack2Future-IIIT-Dharwad/byte_bundits)
+`Flask` `BM3D` `ESRGAN` `GFPGAN`
+
+Hack2Future (IIIT Dharwad) national finalist. Tiled image processing with a three-stage pipeline of BM3D denoising, ESRGAN super-resolution and GFPGAN face restoration, behind a web UI.
+
+> **More work:** wildlife detection (**TrapSense AI**: YOLOv8 + FastAPI + AWS S3) and real-time audio threat detection (**Guardian AI**: Whisper + BERT). See [all repositories](https://github.com/sandep962?tab=repositories).
+
+---
+
+## 🧰 Skills
+
+| | |
+|---|---|
+| **Languages** | `Python` `SQL` `JavaScript` |
+| **ML / DL** | `PyTorch` `TensorFlow` `scikit-learn` · transfer learning, multi-task learning, GANs |
+| **Computer Vision** | `OpenCV` `YOLOv8` `ResNet` `MobileNet` · keypoint regression, detection, restoration |
+| **GenAI & Agents** | `LLM agents (Agno)` `LangChain` `OpenAI API` `Whisper` `BERT` · prompt-injection defence, grounded answers |
+| **Backend & Tools** | `FastAPI` `Flask` `Streamlit` `React` `Docker` `Git` `AWS S3` `NetworkX` |
+
+---
+
+## 🎓 Education
+**B.E. Artificial Intelligence & Machine Learning** · B.M.S. Institute of Technology and Management, Bengaluru · 7th Semester
+
+---
+
+## 📈 GitHub
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandep962&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+Open to **AI/ML internships**, applied research and collaborations in computer vision, multi-agent systems and trustworthy AI.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-bhajantri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sandeepbhajantri549@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
